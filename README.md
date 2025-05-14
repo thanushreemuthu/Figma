@@ -96,14 +96,11 @@ third page
 ```
 
 ## OUTPUT:
+![Screenshot 2025-05-09 210329](https://github.com/user-attachments/assets/9985ae06-9362-40de-a820-53ae64520bd0)
+![Screenshot 2025-05-09 210357](https://github.com/user-attachments/assets/b644e8bd-8ea7-4777-b0ac-de1819a68e1b)
+![Screenshot 2025-05-09 210405](https://github.com/user-attachments/assets/579d27c1-359b-471f-a26b-6b5ca134f6cb)![Screenshot 2025-05-09 210427](https://github.com/user-attachments/assets/c9af3843-681a-477b-b165-5b8b3b22f651)
 
-![alt text](<Screenshot 2025-05-09 210329.png>)
 
-![alt text](<Screenshot 2025-05-09 210357.png>)
-
-![alt text](<Screenshot 2025-05-09 210405.png>)
-
-![alt text](<Screenshot 2025-05-09 210427.png>)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
